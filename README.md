@@ -3,10 +3,11 @@ simple project to demonstrate how to use ActivityKit  &amp; Dynamic Island in iO
 
 ## Overview
 
-Live Activity & Dynamic Island are part of the ActivityKit API from Apple and Available on [`Xcode14.1`] and [`iOS16.1.`]
+Live Activity & Dynamic Island are part of the ActivityKit API from Apple and Available on [`Xcode14.1`] and [`iOS16.1`]
 
-(Images/Simulator1.png)
+<img src="Images/Simulator1.png" alt="Simulator1 ActivityKit" width="400" />
 
-(Images/Simulator2.png)
+<img src="Images/Simulator2.png" alt="Simulator2 ActivityKit" width="400" />
 
-(Images/Simulator3.png)
+<img src="Images/Simulator3.png" alt="Simulator3 ActivityKit" width="400" />
+
